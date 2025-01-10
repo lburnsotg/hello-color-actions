@@ -1,3 +1,3 @@
-const hello = () => "Hello World from Washington DC!";
+const hello = () => "Hello World from the Nation's Capitol Washington DC!";
 console.log(hello());
 exports.hello = hello;
